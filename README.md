@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Lucas Colvero
 
-<!--
-**AlunoLucasGC/AlunoLucasGC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante do Técnico de Desenvolvimento de Sistemas  
+💻 Focado em Desenvolvimento de Sistemas  
+🔐 Interesse em Cibersegurança  
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias
+- HTML, CSS, JavaScript
+- Java, Python, C++, MySql
+- Bootstrap, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Atualmente estudando
+- Desenvolvimento Web
+- Lógica de Programação
+- Banco de dados
+- Programação de aplicativos Desktop
+- Desenvolver e organizar interface gráfica Java
+- Python com framework Flask
+
+## 📫 Contato
+- Email: lucasgoeker@gmail.com
+- LinkedIn: Lucas Colvero - https://www.linkedin.com/in/lucas-colvero-075b1a288/
