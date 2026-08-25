@@ -6,7 +6,7 @@
 
 ## 🚀 Tecnologias
 - HTML, CSS, JavaScript
-- Java, Python, C++, MySql
+- Java, Python, C++, MySql, React Native, JavaScript, TypeScript, NodeJS
 - Bootstrap, Git
 
 ## 📚 Atualmente estudando
